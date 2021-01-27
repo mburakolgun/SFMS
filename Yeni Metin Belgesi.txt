@@ -1,0 +1,10 @@
+Open the browser and go to http://localhost/sfms/admin/
+Accessing admin accounts
+
+Username: admin
+Password: admin
+
+Open the browser and go to http://localhost/sfms/ for student side
+
+Username: 1353
+Password: password
